@@ -1,3 +1,4 @@
+
 .productCard{
     width: 350px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
@@ -29,6 +30,15 @@
     justify-content: space-between;
     align-items: center;
     margin: 10px 0px;
+  }
+
+  .productCard .remove{
+    border: 0px;
+    background-color: #ac0d14;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
   }
   
   .productCard button{
