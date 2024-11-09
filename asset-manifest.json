@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shopmate-app/static/css/main.3b0e9695.css",
+    "main.js": "/shopmate-app/static/js/main.550e9fed.js",
+    "static/media/logo.png": "/shopmate-app/static/media/logo.729fe42e7d23a7906fd5.png",
+    "index.html": "/shopmate-app/index.html",
+    "main.3b0e9695.css.map": "/shopmate-app/static/css/main.3b0e9695.css.map",
+    "main.550e9fed.js.map": "/shopmate-app/static/js/main.550e9fed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b0e9695.css",
+    "static/js/main.550e9fed.js"
+  ]
+}
