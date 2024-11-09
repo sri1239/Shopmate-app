@@ -1,6 +1,7 @@
 import React from 'react'
 import { ProductCard } from '../components/ProductCard'
 import { useTitle } from '../hooks/useTitle'
+//import {img1} from '../assets/images/1001.png'
 
 export const Home = () => {
     useTitle("Home")
